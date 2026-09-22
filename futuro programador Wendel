@@ -1,0 +1,78 @@
+organizador-imposto-renda-excel
+organizador-imposto-renda-excel/
+│
+├── README.md
+├── src/
+│   └── organizador_IR.xlsx
+└── images/
+    ├── dashboard.png
+    ├── entradas.png
+    └── resumo.png
+Exemplo de README.md
+markdown
+# 📊 Organizador de Declaração de Imposto de Renda
+
+## 📖 Descrição
+Este projeto foi desenvolvido como parte do desafio da DIO.  
+A ferramenta em **Excel** ajuda a organizar e consolidar informações essenciais para a declaração de imposto de renda, com interface amigável e funcionalidades extras.
+
+## 🎯 Objetivos
+- Aplicar os conceitos aprendidos durante as aulas práticas da DIO
+- Criar um agregador de dados eficiente e validado
+- Documentar o processo técnico de forma clara e estruturada
+- Utilizar o GitHub como ferramenta de compartilhamento
+
+## ⚙️ Funcionalidades
+- **Dashboard inicial** com menus de navegação
+- **Entradas de dados** para rendimentos, despesas e bens
+- **Validações automáticas** para evitar erros de preenchimento
+- **Resumo consolidado** para apoiar na declaração
+- **Links rápidos** para sites oficiais e tutoriais
+
+## 🛠️ Tecnologias Utilizadas
+- Microsoft Excel
+- Fórmulas e validações de dados
+- Hiperlinks internos
+- Tabelas dinâmicas
+
+## 🚀 Como Usar
+1. Baixe o arquivo Excel disponível neste repositório
+2. Abra o arquivo e utilize o **Dashboard** para navegar
+3. Insira seus dados na aba **Entradas**
+4. Confira o resumo na aba **Resumo IR**
+5. Utilize os **Links úteis** para acessar materiais de apoio
+
+## 📷 Capturas de Tela
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Entradas
+![Entradas](images/entradas.png)
+
+### Resumo IR
+![Resumo](images/resumo.png)
+
+## ✨ Autor
+Projeto desenvolvido por **Wendel** como parte do desafio da DIO.
+Exemplo da Planilha (conteúdo prático)
+Dashboard:
+
+Botões com hiperlinks para navegar entre abas.
+
+Ícones simples para facilitar a usabilidade.
+
+Entradas:
+
+Colunas: Data, Descrição, Categoria (Rendimento, Despesa, Bem), Valor.
+
+Validações: impedir texto em campos numéricos, lista suspensa para categorias.
+
+Resumo IR:
+
+Fórmulas para somar rendimentos e despesas.
+
+Tabela dinâmica para consolidar os dados.
+
+Links úteis:
+
+Atalhos para Receita Federal, tutoriais da DIO e materiais complementares.
